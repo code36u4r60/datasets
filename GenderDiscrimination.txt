@@ -1,0 +1,6 @@
+The GenderDiscrimination.csv data set includes Gender (male/
+female), Experience (work experience, in years), and Salary (annual salary
+in dollars) of n = 208 individuals. 
+
+The objective is to learn whether the dataindicate systematic compensation 
+discrimination against female employees.

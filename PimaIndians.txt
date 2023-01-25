@@ -1,0 +1,18 @@
+The data in the file PimaIndians.csv are taken from the UCI Machine Learning
+Repository. The data set consists of 768 females at least 21 years old and of
+Pima Indian heritage. The response variable is the absence/presence of diabetes
+(coded 0/1, in the variable Class). The objective is to predict the presence of
+diabetes from the following eight continuous risk factors:
+
+• Number of pregnancies
+• Plasma glucose concentration determined by an oral glucose tolerance test
+• Diastolic blood pressure (mmHg)
+• Triceps skin fold thickness (mm)
+• 2-h serum insulin
+• Body mass index [weight in kilograms/(height in meters)2]
+• Diabetes pedigree function
+• Age (years)
+
+Several techniques can be used for the purpose of classifying Pima Indians into
+the diabetes/no diabetes groups, including logistic regression, classification trees,
+and linear or quadratic discriminant functions.

@@ -1,0 +1,11 @@
+This is a small data set for assessing the riskiness of certain loans. The riskiness
+of a loan (low, moderate, and high) in the last column of the data file credit.csv
+is determined from four categorical risk predictors with the following attribute categories:
+
+• Credit history (bad, good, unknown)
+• Debt (high, low)
+• Collateral (adequate, none)
+• Income group (>35, 0–15, 15–35)
+
+Note that a complete factorial arrangement includes (3)(2)(2)(3) = 36 attribute
+combinations; this data set includes only 14.

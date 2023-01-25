@@ -1,0 +1,10 @@
+The FinancialIndicators.csv data set lists indicators of the financial
+health of n = 7112 companies listed at various stock exchanges. The objective
+here is to explore the relevance of accounting information for explaining
+and predicting stock returns. Financial indicators include profitability ratios
+(such as gross margins and profit margins), liquidity ratios (such as the operating
+cost flow ratio), activity ratios (such as the stock turnover ratio), and
+debt and market ratios. Analyzing this data set, one appreciates the fact that
+(i) available financial indicators are closely related (multicollinear) and (ii) it
+is not particularly easy to obtain strong relationships between stock price (or
+stock price changes) and the accounting information.

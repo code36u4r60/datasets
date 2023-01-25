@@ -1,0 +1,10 @@
+TheLoanData.csv data set lists the outcome of n = 5611 loans. This
+data set comes from the consumer-to-consumer (C2C) lending market where
+borrowers post loan listings and lenders invest in those loans by bidding
+on the borrower’s loan rates. The data variables include the Status of the
+loan (ultimate outcome; whether the loan is current, late, or in default), the
+Credit.Grade of the loan (categorical; from the best rating AA to the worst
+one, HC for heavy risk), Amount of loan (in dollars), Age of loan (in months),
+the Borrower.Rate, and the Debt.To.Income.Ratio. Here the objective is to
+distinguish among good and bad loans, that is, to classify loans into good
+(current), late, and default loans.

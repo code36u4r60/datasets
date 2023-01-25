@@ -1,0 +1,12 @@
+This is a data set that relates the outcome of labor negotiations (good or bad, as
+seen by the workers who are covered by these agreements) to attributes of the
+negotiated contract. The data in file labor.csv is available from the UCI Machine
+Learning Repository. It includes 57 Canadian contracts, 16 attributes, and an overall
+outcome (0/1) variable. The data set contains many missing variables. For the
+construction of the classification tree, we have omitted variables with many missing
+values, and we concentrate our analysis on the following four attributes: duration
+of the contract, wage increase in the first year of the contract, the number of
+weekly hours negotiated for, and the quality of the vacation benefit package (categorical
+on a nominal scale). 
+
+The objective is to predict the overall quality of the contract.

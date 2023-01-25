@@ -1,0 +1,9 @@
+The HousePrices.csv data set includes prices and characteristics of
+n = 128 houses in a major US metropolitan area. The variables include Price
+(sale price in dollars), SqFt (size in square feet), Bedrooms (number of),
+Bathrooms (number of), Offers (number of offers the house has received
+while on the market), Brick (whether it is brick construction; Yes/No), and
+Neighborhood (East/North/West). 
+
+The objective is to explain the sale price of a house as a function of 
+its characteristics.

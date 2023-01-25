@@ -1,0 +1,22 @@
+The data in the file wine.csv (taken from the UCI Machine Learning Repository) are
+the results of a chemical analysis of 174 Italian wines from three known cultivars
+(a cultivar is a group of grapes selected for desirable characteristics that can be
+maintained by propagation). The chemical analysis determined the quantities of the
+following 13 different constituents:
+
+• Alcohol
+• Malic acid
+• Ash
+• Alkalinity of ash
+• Magnesium
+• Total phenols
+• Flavanoids
+• Nonflavanoid phenols
+• Proanthocyanins
+• Color intensity
+• Hue
+• OD280/OD315 of diluted wines
+• Proline.
+
+The objective is to classify the 174 wines on the basis of their attributes and
+to predict their cultivar.

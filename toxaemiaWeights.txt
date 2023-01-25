@@ -1,0 +1,5 @@
+The following data are taken from Brown et al. (1983). The data, collected in Bradford (UK) between 1968 and 1977, are from 13,384 women giving birth to their first child. 
+
+The data set includes information on toxemic signs exhibited by the mother during pregnancy: hypertension only; proteinurea (i.e., the presence ofprotein in urine) only; both hypertension and proteinurea; and neither hypertension nor proteinurea. 
+
+The aim of the study was to learn if the level of smoking and the social class are related to the incidence of toxemic signs and how this might depend on social class. The two covariates are social class (1 through 5) and the number of cigarettes smoked (1, none; 2, 1–19 cigarettes per day; 3, more than 20 cigarettes per day).

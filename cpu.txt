@@ -1,0 +1,14 @@
+The data in the file cpu.csv are taken from the UCI Machine Learning Repository.
+The data set consists of 209 different computer configurations, as specified by the
+following six explanatory variables:
+
+• Cycle Time (MYCT, in nanoseconds),
+• Min Main Memory (MMIN, in kilobytes),
+• Max Main Memory (MMAX, in kilobytes),
+• Cache of Main Memory (CACH, in kilobytes),
+• Min Number of Channels,
+• Max Number of Channels.
+
+The published and the estimated relative CPU performances [PRP (published
+relative performance) and ERP (event-related potentials)] are the two response
+variables that need to be explained. Here we consider PRP as the response.
